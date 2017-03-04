@@ -28,7 +28,6 @@ int main()
     int i;
     for (i = 0; i < 10; ++i) {
     printf(" %d",arr[i]);
-    }
     printf("\n");
 
     printf("Min element: %d\n", min);
